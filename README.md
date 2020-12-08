@@ -1,16 +1,19 @@
-### Hi there 👋
+## I'm using
+![PyCharm](img/pycharm.svg)
+![IDEA](img/idea.svg)
+![GoLand](img/goland.svg)
+![DataGrip](img/datagrip.svg)
+![WebStorm](img/webstorm.svg)
 
-<!--
-**Nix1304/Nix1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Docker](img/docker.svg)
 
-Here are some ideas to get you started:
+## My Stack
+![CSS](img/css.svg)
+![HTML](img/html.svg)
+![SASS](img/sass.svg)
+![JS](img/js.svg)
+![React](img/react.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+[![Telegram](img/telegram.svg)](https://t.me/DarkShinigani)
+[![WEB](img/web.svg)](https://nix13.pw)
