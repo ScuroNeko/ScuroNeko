@@ -13,6 +13,9 @@
 ![SASS](img/sass.svg)
 ![JS](img/js.svg)
 ![React](img/react.svg)
+![Python](img/python.svg)
+
+![GoLang](img/golang.svg)
 
 ## Links
 [![Telegram](img/telegram.svg)](https://t.me/DarkShinigani)
