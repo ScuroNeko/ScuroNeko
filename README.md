@@ -19,4 +19,4 @@
 
 ## Links
 [![Telegram](img/telegram.svg)](https://t.me/DarkShinigani)
-[![WEB](img/web.svg)](https://nix13.pw)
+[![WEB](img/web.svg)](https://nix13.dev)
