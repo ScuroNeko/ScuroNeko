@@ -4,8 +4,6 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nix1304&hide_border=true&layout=compact&theme=tokyonight">
-
 - Russian / 18 y.o.
 - ru-RU / en-US
 - Programmer / Developer
@@ -13,6 +11,8 @@
 💖 Let's give it a shot! Go on and catch the dream!
 
 ## 🌱 My Stack
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nix1304&hide_border=true&layout=compact&theme=tokyonight">
 
 ![CSS3](https://img.shields.io/badge/-CSS3-222?style=for-the-badge&logo=CSS3&logoColor=1572b6&color=733c8d&labelColor=222)
 ![HTML5](https://img.shields.io/badge/-HTML5-222?style=for-the-badge&logo=HTML5&logoColor=e34f26&color=733c8d&labelColor=222)
