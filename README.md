@@ -2,9 +2,9 @@
 
 # Nix13 🔭
 
-### Hi there 👋 This... It's me? Okay.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nix1304&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=Nix13&count_private=true&theme=tokyonight">
+
+### Hi there 👋 This... It's me? Okay.
 
 - Russian / 18 y.o.
 - ru-RU / en-US
