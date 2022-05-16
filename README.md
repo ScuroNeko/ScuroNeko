@@ -1,8 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nix1304&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=Nix13&count_private=true&theme=tokyonight">
+
 
 # Nix13 🔭
 
 ### Hi there 👋 This... It's me? Okay.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nix1304&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=Nix13&count_private=true&theme=tokyonight">
 
 - Russian / 18 y.o.
 - ru-RU / en-US
@@ -35,3 +37,7 @@
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-222?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=733c8d&labelColor=222)](https://t.me/DarkShinigani)
 [![VK](https://img.shields.io/badge/-VK-222?style=for-the-badge&logo=vk&logoColor=0077FF&color=733c8d&labelColor=222)](https://vk.com/nikitagorshok)
+[![E-mail](https://img.shields.io/badge/-E--mail-222?style=for-the-badge&logo=gmail&logoColor=EA4335&color=733c8d&labelColor=222)](mailto:nix1304@gmail.com)
+
+## Projects
+***TODO***
