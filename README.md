@@ -39,7 +39,7 @@
 [![VK](https://img.shields.io/badge/-VK-222?style=for-the-badge&logo=vk&logoColor=0077FF&color=733c8d&labelColor=222)](https://vk.com/nikitagorshok)
 [![E-mail](https://img.shields.io/badge/-E--mail-222?style=for-the-badge&logo=gmail&logoColor=EA4335&color=733c8d&labelColor=222)](mailto:nix1304@gmail.com)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/669217767144030208)](https://discord.com/users/669217767144030208)
+[![Discord Presence](https://lanyard.cnrad.dev/api/259377757669031937?theme=dark&idleMessage=Probably%20died...)](https://discord.com/users/259377757669031937)
 
 ## Projects
 ***TODO***
