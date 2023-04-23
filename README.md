@@ -6,11 +6,9 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-- Russian / 18 y.o.
+- Russian / 19 y.o.
 - ru-RU / en-US
 - Programmer / Developer
-
-💖 Let's give it a shot! Go on and catch the dream!
 
 ## 🌱 My Stack
 
