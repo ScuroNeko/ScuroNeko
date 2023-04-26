@@ -2,7 +2,7 @@
 
 # Nix13 🔭
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nix1304&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=Nix13&count_private=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ScuroNeko&show_icons=true&hide_border=true&include_all_commits_disable=false&count_private=true&theme=tokyonight">
 
 ### Hi there 👋 This... It's me? Okay.
 
@@ -12,7 +12,7 @@
 
 ## 🌱 My Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nix1304&hide_border=true&layout=compact&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ScuroNeko&hide_border=true&layout=compact&theme=tokyonight">
 
 ![CSS3](https://img.shields.io/badge/-CSS3-222?style=for-the-badge&logo=CSS3&logoColor=1572b6&color=733c8d&labelColor=222)
 ![HTML5](https://img.shields.io/badge/-HTML5-222?style=for-the-badge&logo=HTML5&logoColor=e34f26&color=733c8d&labelColor=222)
