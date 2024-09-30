@@ -6,7 +6,7 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-- Russian / 19 y.o.
+- Russian / 20 y.o.
 - ru-RU / en-US
 - Programmer / Developer
 
