@@ -1,6 +1,4 @@
-
-
-# Nix13 🔭
+# ScuroNeko 🔭
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ScuroNeko&show_icons=true&hide_border=true&include_all_commits_disable=false&count_private=true&theme=tokyonight">
 
